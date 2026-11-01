@@ -47,9 +47,6 @@ The firmware is written for the Arduino IDE using the following libraries:
 
 ## Bill of Materials (BOM)
 
-Save the following table as `bom.csv` in the root of your repository for automated tracking:
-
-```csv
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Seeed Studio XIAO ESP32-C3,1,Seeed Studio,$5.00,$5.00,
 E-Paper Display Module,1,AliExpress,$12.00,$12.00,
