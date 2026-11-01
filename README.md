@@ -47,12 +47,13 @@ The firmware is written for the Arduino IDE using the following libraries:
 
 ## Bill of Materials (BOM)
 
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Seeed Studio XIAO ESP32-C3,1,Seeed Studio,$5.00,$5.00,
-E-Paper Display Module,1,AliExpress,$12.00,$12.00,
-3.3V MicroSD Card Module,1,AliExpress,$1.50,$1.50,
-Tactile Push Buttons,3,AliExpress,$0.33,$1.00,
-Slide Power Switch,1,AliExpress,$0.50,$0.50,
-JST-PH 2.0mm Battery Connector,1,AliExpress,$0.50,$0.50,
-Custom PCB,5,JLCPCB,$0.40,$2.00,
-Estimated total shipping,1,,, $0.00,
+| Item | Qty | Supplier | Cost/item | Total Cost | link |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| Seeed Studio XIAO ESP32-C3 | 1 | Seeed Studio | $5.00 | $5.00 | |
+| E-Paper Display Module | 1 | AliExpress | $12.00 | $12.00 | |
+| 3.3V MicroSD Card Module | 1 | AliExpress | $1.50 | $1.50 | |
+| Tactile Push Buttons | 3 | AliExpress | $0.33 | $1.00 | |
+| Slide Power Switch | 1 | AliExpress | $0.50 | $0.50 | |
+| JST-PH 2.0mm Battery Connector | 1 | AliExpress | $0.50 | $0.50 | |
+| Custom PCB | 5 | JLCPCB | $0.40 | $2.00 | |
+| Estimated total shipping | 1 | — | — | $0.00 | |
